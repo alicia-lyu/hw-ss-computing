@@ -1,0 +1,46 @@
+.download {
+    text-decoration:none;
+    padding-right: 0.25em;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;;
+}
+
+.assign .download a {
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+    background-color: #fff;
+    border: 1px solid #49bf9d;
+    color: #49bf9d;
+    border-radius: 0.25em;
+    padding:0.1em 0.25em;
+}
+
+.assign .download a:hover {
+    background-color: #49bf9d;
+    color: #fff !important;
+}
+
+.assign {
+    font-size:0.95em;
+    margin-left:3em;
+}
+
+.assign a.item, ol li.toc a b {
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+    color: #787878;
+    border-bottom: 1px dotted #787878 !important;
+}
+
+.assign a:hover.item, ol li.toc a:hover b {
+    color: #49bf9d;
+    border-bottom: 1px dotted #49bf9d !important;
+}
+
+li.toc {
+    line-height: 2;
+}
+
