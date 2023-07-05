@@ -1,4 +1,7 @@
-# hw-ss-computing
-This repository contains the source codes for a series of web pages. They are my homework for a course at PKU in 21 Fall, Computational Practices for Social Science Research, offered by Professor Li Xiaoming.
+# PKU Computational Practices for Social Science Research - Fall 2021 Homework Repository
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit [here][http://creativecommons.org/licenses/by/4.0/] or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This repository contains the source codes for a set of web pages, developed as part of my homework for the Computational Practices for Social Science Research course at Peking University in the Fall of 2021. This course was instructed by Professor Li Xiaoming.
+
+## License
+
+This work is under the terms of the MIT License. A copy of this license is available in the [LICENSE.md](./LICENSE.md) file in this repository.
